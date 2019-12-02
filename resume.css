@@ -1,0 +1,43 @@
+h1
+{
+  color:red;
+  font-size:80px;
+  background-color:lightgreen;
+}
+
+h2
+{
+ color:blue;
+}
+
+img
+{
+  margin:20px;
+  float:left;
+  padding-right: 50px;
+}
+
+
+
+ #div1
+ {
+ margin-left:500px;
+ }
+
+ .img-with-text {
+     margin:1 auto;
+     text-align: justify;
+     float:left;
+
+ }
+
+ .img-with-text img {
+     display: block;
+     margin: 1 auto;
+     align:justify;
+
+ }
+
+ .img-container {
+         text-align: center;
+       }
